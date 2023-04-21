@@ -83,7 +83,7 @@
 
 .top-trees {
   height: 100vh;
-  background-image: url("../images-cloud/middlemarch.png");
+  background-image: url("../images-cloud/books.png");
   background-size: 1000px, 205px;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -144,7 +144,7 @@
 }
 
 #main-panel {
-  background: #3e1861;
+  background: #105c88;
   min-height: 500px;
   padding-top: 50px;
 }

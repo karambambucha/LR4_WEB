@@ -22,7 +22,7 @@
 footer {
   min-height: 300px;
   text-align: center;
-  background-color: #111222;
+  background-color: #941C2F;
   padding-top: 120px;
   font-size: 16px;
   font-weight: 200;
